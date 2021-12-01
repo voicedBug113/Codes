@@ -1,2 +1,2 @@
 # Python codes
-Here are some small codes i make everyday
+Python Day to Day codes
